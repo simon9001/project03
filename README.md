@@ -14,6 +14,8 @@ The program applies the discount **only if it is 20% or higher**; otherwise, the
 ---
 ## How to Run
 
+python discount.py
+
 ###  Clone or Download the Project
 
 ```bash
@@ -21,6 +23,4 @@ git clone https://github.com/yourusername/discount_project.git
 cd discount_project
 
 
-### RUN
 
-python discount.py
